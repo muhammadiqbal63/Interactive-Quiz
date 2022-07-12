@@ -1,1 +1,1 @@
-console.log('Hello!');
+const correctAnswers = ['B', 'B', 'B', 'B'];
